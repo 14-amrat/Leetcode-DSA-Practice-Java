@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0118-pascals-triangle) |
+| [0039-combination-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0118-pascals-triangle) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
