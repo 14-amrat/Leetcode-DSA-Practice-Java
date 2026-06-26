@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0118-pascals-triangle) |
 | [0039-combination-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0039-combination-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
