@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0039-combination-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [0090-subsets-ii](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0090-subsets-ii) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
