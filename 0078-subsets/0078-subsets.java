@@ -1,33 +1,19 @@
 class Solution {
-
     public List<List<Integer>> subsets(int[] nums) {
-
-        List<List<Integer>> ans = new ArrayList<>();
-
-        backtrack(nums, 0, new ArrayList<>(), ans);
-
-        return ans;
+        // No sort needed — all elements are unique, no dup-skip required
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(nums, 0, new ArrayList<>(), result);
+        return result;
     }
 
-    private void backtrack(int[] nums,
-                           int start,
-                           List<Integer> subset,
-                           List<List<Integer>> ans) {
+    private void backtrack(int[] nums, int start, List<Integer> path, List<List<Integer>> result) {
+        // Snapshot current path — every node (not just leaf) is a valid subset
+        result.add(List.copyOf(path));
 
-        // Current subset is valid
-        ans.add(new ArrayList<>(subset));
-
-        // Try every remaining element
-        for(int i = start; i < nums.length; i++) {
-
-            // Choose
-            subset.add(nums[i]);
-
-            // Explore
-            backtrack(nums, i + 1, subset, ans);
-
-            // Undo
-            subset.remove(subset.size() - 1);
+        for (int i = start; i < nums.length; i++) {
+            path.add(nums[i]);               // choose current element
+            backtrack(nums, i + 1, path, result); // explore (i+1 ensures no reuse)
+            path.remove(path.size() - 1);    // unchoose (backtrack)
         }
     }
 }
