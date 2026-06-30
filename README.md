@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [0090-subsets-ii](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0090-subsets-ii) |
 | [0078-subsets](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0078-subsets) |
+| [0046-permutations](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0090-subsets-ii) |
 | [0078-subsets](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0078-subsets) |
+| [0046-permutations](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0046-permutations) |
 ## Math
 |  |
 | ------- |
