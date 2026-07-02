@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0090-subsets-ii) |
 | [0078-subsets](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0078-subsets) |
 | [0046-permutations](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0046-permutations) |
+| [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 ## Game Theory
 |  |
 | ------- |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0090-subsets-ii) |
 | [0078-subsets](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
