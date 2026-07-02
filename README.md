@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0078-subsets) |
 | [0046-permutations](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0046-permutations) |
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Game Theory
 |  |
 | ------- |
@@ -79,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
