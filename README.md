@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0046-permutations) |
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [0540-single-element-in-a-sorted-array](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
