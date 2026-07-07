@@ -1,18 +1,19 @@
 class Solution {
-    public int minSwaps (String s) {
-        Stack <Character> stack = new Stack ();
-        int mismatch = 0;
-        for (int i = 0; i < s.length (); i++) {
-            char ch = s.charAt (i);
-            if (ch == '[')
-                stack.push (ch);
-            else {
-                if (!stack.isEmpty ())
-                    stack.pop ();
-                else 
-                    mismatch++;
+    public int minSwaps(String s) {
+        int balance = 0;
+        int maxImbalance = 0;
+
+        for (char ch : s.toCharArray()) {
+            if (ch == '[') {
+                balance++;
+            } else {
+                balance--;
             }
+
+            maxImbalance = Math.max(maxImbalance, -balance);
         }
-        return (mismatch + 1) / 2;
+
+        return (maxImbalance + 1) / 2;
+        
     }
 }
