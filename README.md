@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Game Theory
 |  |
 | ------- |
@@ -87,10 +88,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
