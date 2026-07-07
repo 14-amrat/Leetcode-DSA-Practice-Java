@@ -1,19 +1,21 @@
 class Solution {
     public int minSwaps(String s) {
-        int balance = 0;
-        int maxImbalance = 0;
+        int open = 0;
+        int unmatchedClose = 0;
 
         for (char ch : s.toCharArray()) {
-            if (ch == '[') {
-                balance++;
-            } else {
-                balance--;
-            }
 
-            maxImbalance = Math.max(maxImbalance, -balance);
+            if (ch == '[') {
+                open++;
+            } else {
+
+                if (open > 0)
+                    open--;
+                else
+                    unmatchedClose++;
+            }
         }
 
-        return (maxImbalance + 1) / 2;
-        
+        return (unmatchedClose + 1) / 2;
     }
 }
