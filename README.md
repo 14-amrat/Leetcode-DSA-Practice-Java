@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0204-count-primes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [0204-count-primes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0204-count-primes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
