@@ -1,21 +1,27 @@
 class Solution {
     public int countPrimes(int n) {
-        boolean[] prime = new boolean[n];
-        int cnt=0;
-        for (int i = 2; i < n; i++) {
-            prime[i] = true;
+        if (n <= 2)
+            return 0;
+        
+        
+        int[] notPrime = new int[n + 1];
+        int count = n - 2;
+        int prime = 2;
+        
+        
+        while (prime * prime < n) {
+            if (notPrime[prime] == 0)
+                for (int num = prime + prime; num < n; num += prime)
+                    if (notPrime[num] == 0) {
+                        count--;
+                        notPrime[num] = 1;
+                    }
+            
+            
+            prime++;
         }
-
-        for (int i = 2;i < n; i++) {
-            if (prime[i]) {
-                cnt++;
-                for (int j = i * 2; j < n; j += i) {
-                    prime[j] = false;
-                }
-            }
-        }
-        return cnt;
+        
+        
+        return count;
     }
 }
-
-
