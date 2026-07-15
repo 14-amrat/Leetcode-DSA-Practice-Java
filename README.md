@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0204-count-primes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -130,8 +133,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
