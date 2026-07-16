@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -123,17 +124,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
+| [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
