@@ -104,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0151-reverse-words-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0394-decode-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0394-decode-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
