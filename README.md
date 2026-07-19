@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0118-pascals-triangle) |
+| [0010-regular-expression-matching](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0010-regular-expression-matching) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0151-reverse-words-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0394-decode-string) |
+| [0010-regular-expression-matching](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0010-regular-expression-matching) |
 ## Stack
 |  |
 | ------- |
@@ -156,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0394-decode-string) |
+| [0010-regular-expression-matching](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
