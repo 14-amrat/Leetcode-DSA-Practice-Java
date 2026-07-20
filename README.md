@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0204-count-primes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0217-contains-duplicate](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0217-contains-duplicate) |
+| [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0217-contains-duplicate) |
+| [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [0217-contains-duplicate](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0217-contains-duplicate) |
+| [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0394-decode-string) |
 | [0010-regular-expression-matching](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0010-regular-expression-matching) |
+| [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
