@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0217-contains-duplicate](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
 | [0004-median-of-two-sorted-arrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 ## Geometry
 |  |
 | ------- |
@@ -71,14 +74,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
+| [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
+| [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -169,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0394-decode-string) |
 | [0010-regular-expression-matching](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0010-regular-expression-matching) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
