@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 | [0036-valid-sudoku](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0036-valid-sudoku) |
+| [0238-product-of-array-except-self](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
