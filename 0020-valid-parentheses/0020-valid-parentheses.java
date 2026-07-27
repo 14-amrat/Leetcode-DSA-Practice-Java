@@ -1,21 +1,29 @@
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
-        Map<Character, Character> mapping = new HashMap<>();
-        mapping.put(')', '(');
-        mapping.put('}', '{');
-        mapping.put(']', '[');
-                     
+        
         for (char c : s.toCharArray()) {
-            if (mapping.containsValue(c)) {
+            if (c == '(' || c == '{' || c == '[') {
+                // Opening bracket: push to stack
                 stack.push(c);
-            } else if (mapping.containsKey(c)) {
-                if (stack.isEmpty() || mapping.get(c) != stack.pop()) {
-                    return false;
+            } else {
+                // Closing bracket: must match top of stack
+                if (stack.isEmpty()) {
+                    return false; // No matching open bracket
+                }
+                
+                char open = stack.pop();
+                
+                // Check if types match
+                if ((c == ')' && open != '(') ||
+                    (c == '}' && open != '{') ||
+                    (c == ']' && open != '[')) {
+                    return false; // Mismatch
                 }
             }
         }
-
-        return stack.isEmpty();        
+        
+        // Stack must be empty (all brackets closed)
+        return stack.isEmpty();
     }
 }
