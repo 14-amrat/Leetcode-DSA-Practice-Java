@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0242-valid-anagram) |
+| [0020-valid-parentheses](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0394-decode-string) |
+| [0020-valid-parentheses](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0020-valid-parentheses) |
 ## Enumeration
 |  |
 | ------- |
