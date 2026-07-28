@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0238-product-of-array-except-self) |
 | [0011-container-with-most-water](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0151-reverse-words-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0011-container-with-most-water](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
