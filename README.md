@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 | [0036-valid-sudoku](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0355-design-twitter) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0355-design-twitter) |
 ## Quickselect
 |  |
 | ------- |
@@ -198,10 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0355-design-twitter) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
