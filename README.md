@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0238-product-of-array-except-self) |
 | [0011-container-with-most-water](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0118-pascals-triangle) |
 | [0010-regular-expression-matching](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0010-regular-expression-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
