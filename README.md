@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 | [0036-valid-sudoku](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0238-product-of-array-except-self) |
+| [0011-container-with-most-water](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [0011-container-with-most-water](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0011-container-with-most-water) |
 ## Game Theory
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0151-reverse-words-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0011-container-with-most-water](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
