@@ -162,12 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
 | [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0146-lru-cache) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
