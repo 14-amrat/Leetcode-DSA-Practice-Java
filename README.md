@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0055-jump-game](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0118-pascals-triangle) |
 | [0010-regular-expression-matching](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0055-jump-game](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0011-container-with-most-water](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0055-jump-game) |
 ## Game Theory
 |  |
 | ------- |
