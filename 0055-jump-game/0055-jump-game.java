@@ -6,7 +6,7 @@ class Solution {
         if(i>maxReach) return false;
 
         maxReach = Math.max(maxReach , i + nums[i]);
-        if( maxReach >= nums.length-1);
+        if( maxReach >= nums.length-1) return true;
        }
      return true;
     }
