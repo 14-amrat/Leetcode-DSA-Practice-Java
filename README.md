@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0355-design-twitter) |
+| [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
 | [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
+| [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
+| [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -234,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
