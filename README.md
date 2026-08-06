@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
 | [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,12 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0355-design-twitter) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Design
 |  |
 | ------- |
