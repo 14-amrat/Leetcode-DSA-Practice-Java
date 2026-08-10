@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
