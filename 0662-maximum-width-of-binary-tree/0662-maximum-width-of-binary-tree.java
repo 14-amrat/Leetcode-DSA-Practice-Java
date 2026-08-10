@@ -1,30 +1,33 @@
 class Solution {
-public int widthOfBinaryTree(TreeNode root) {
-    if (root == null) return 0;
-    
-    Queue<Pair<TreeNode, Long>> q = new LinkedList<>();
-    q.offer(new Pair<>(root, 0L));
-    
-    long maxWidth = 0;
-    
-    while (!q.isEmpty()) {
-        int size = q.size();
-        long minPos = Long.MAX_VALUE, maxPos = Long.MIN_VALUE;
+    public int widthOfBinaryTree(TreeNode root) {
+        if (root == null) return 0;
         
-        for (int i = 0; i < size; i++) {
-            TreeNode node = q.peek().getKey();
-            long pos = q.poll().getValue();
+        Queue<Pair<TreeNode, Integer>> queue = new LinkedList<>();
+        queue.add(new Pair<>(root, 0));
+        int maxWidth = 0;
+        
+        while (!queue.isEmpty()) {
+            int levelLength = queue.size();
+            int levelStart = queue.peek().getValue();
+            int index = 0;
             
-            minPos = Math.min(minPos, pos);
-            maxPos = Math.max(maxPos, pos);
+            for (int i = 0; i < levelLength; i++) {
+                Pair<TreeNode, Integer> pair = queue.poll();
+                TreeNode node = pair.getKey();
+                index = pair.getValue();
+                
+                if (node.left != null) {
+                    queue.add(new Pair<>(node.left, 2*index));
+                }
+                
+                if (node.right != null) {
+                    queue.add(new Pair<>(node.right, 2*index+1));
+                }
+            }
             
-            if (node.left != null) q.offer(new Pair<>(node.left, 2 * pos + 1));
-            if (node.right != null) q.offer(new Pair<>(node.right, 2 * pos + 2));
+            maxWidth = Math.max(maxWidth, index - levelStart + 1);
         }
         
-        maxWidth = Math.max(maxWidth, maxPos - minPos + 1);
+        return maxWidth;
     }
-    
-   return (int) maxWidth; 
 }
- }
