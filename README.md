@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0355-design-twitter) |
 | [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
