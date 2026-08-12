@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0242-valid-anagram) |
 | [0020-valid-parentheses](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0020-valid-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [0006-zigzag-conversion](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0006-zigzag-conversion) |
 ## Stack
 |  |
 | ------- |
