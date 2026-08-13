@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0020-valid-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [0006-zigzag-conversion](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0006-zigzag-conversion) |
+| [0686-repeated-string-match](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0686-repeated-string-match) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0686-repeated-string-match) |
 ## Hash Function
 |  |
 | ------- |
@@ -261,4 +263,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
