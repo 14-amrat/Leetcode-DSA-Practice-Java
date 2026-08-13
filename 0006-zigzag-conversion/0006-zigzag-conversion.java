@@ -5,32 +5,24 @@ class Solution {
             return s;
         }
 
-        StringBuilder[] rows = new StringBuilder[numRows];
-
-        for (int i = 0; i < numRows; i++) {
-            rows[i] = new StringBuilder();
-        }
-
-        int row = 0;
-        int direction = 1;
-
-        for (char c : s.toCharArray()) {
-
-            rows[row].append(c);
-
-            if (row == 0) {
-                direction = 1;
-            } else if (row == numRows - 1) {
-                direction = -1;
-            }
-
-            row += direction;
-        }
-
         StringBuilder result = new StringBuilder();
 
-        for (StringBuilder r : rows) {
-            result.append(r);
+        int cycle = 2 * (numRows - 1);
+
+        for (int row = 0; row < numRows; row++) {
+
+            for (int i = row; i < s.length(); i += cycle) {
+
+                result.append(s.charAt(i));
+
+                // Characters in the middle rows have a second character
+                int diagonal = i + cycle - 2 * row;
+
+                if (row != 0 && row != numRows - 1
+                        && diagonal < s.length()) {
+                    result.append(s.charAt(diagonal));
+                }
+            }
         }
 
         return result.toString();
