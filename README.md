@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0207-course-schedule](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0207-course-schedule](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0207-course-schedule) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0207-course-schedule) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -275,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0686-repeated-string-match) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
