@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0055-jump-game](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0073-set-matrix-zeroes) |
 | [0036-valid-sudoku](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0036-valid-sudoku) |
+| [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0055-jump-game](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0055-jump-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0394-decode-string) |
 | [0020-valid-parentheses](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
 ## Enumeration
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
 ## Recursion
 |  |
 | ------- |
