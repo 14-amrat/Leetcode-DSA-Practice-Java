@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0055-jump-game](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0055-jump-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0207-course-schedule) |
+## Sliding Window
+|  |
+| ------- |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
