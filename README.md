@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0133-clone-graph) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0006-zigzag-conversion) |
 | [0686-repeated-string-match](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0686-repeated-string-match) |
 | [0387-first-unique-character-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
 ## Stack
 |  |
 | ------- |
