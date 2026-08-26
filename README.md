@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0238-product-of-array-except-self) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Linked List
 |  |
 | ------- |
