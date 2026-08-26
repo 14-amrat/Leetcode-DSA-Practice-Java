@@ -1,40 +1,35 @@
-
 class Solution {
     public long countStableSubarrays(int[] capacity) {
-
+        long count = 0;
         int n = capacity.length;
-
-        if (n < 3) {
-            return 0;
-        }
-
+        
         long[] prefix = new long[n + 1];
-
         for (int i = 0; i < n; i++) {
             prefix[i + 1] = prefix[i] + capacity[i];
         }
-
-        HashMap<Integer, HashMap<Long, Integer>> map = new HashMap<>();
-
-        long answer = 0;
-
-        for (int r = 2; r < n; r++) {
-
-            int l = r - 2;
-
-            long key = prefix[l] + 2L * capacity[l];
-
-            map
-                .computeIfAbsent(capacity[l], k -> new HashMap<>())
-                .merge(key, 1, Integer::sum);
-
-            int value = capacity[r];
-
-            if (map.containsKey(value)) {
-                answer += map.get(value).getOrDefault(prefix[r], 0);
+        
+        // Map<capacity_value, Map<prefix[l] + 2*capacity[l], count>>
+        Map<Integer, Map<Long, Integer>> map = new HashMap<>();
+        
+        for (int r = 0; r < n; r++) {
+            // Query: count matching l values in [0, r-2]
+            if (r >= 2) {
+                if (map.containsKey(capacity[r])) {
+                    long target = prefix[r];
+                    count += map.get(capacity[r]).getOrDefault(target, 0);
+                }
+            }
+            
+            // Add position r-1 to map (for future r's)
+            if (r >= 1) {
+                int capRm1 = capacity[r - 1];
+                long keyRm1 = prefix[r - 1] + 2L * capacity[r - 1];
+                
+                map.putIfAbsent(capRm1, new HashMap<>());
+                map.get(capRm1).merge(keyRm1, 1, Integer::sum);
             }
         }
-
-        return answer;
+        
+        return count;
     }
 }
