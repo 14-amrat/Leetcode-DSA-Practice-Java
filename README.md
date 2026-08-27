@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0686-repeated-string-match) |
 | [0387-first-unique-character-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0207-course-schedule](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0355-design-twitter) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
