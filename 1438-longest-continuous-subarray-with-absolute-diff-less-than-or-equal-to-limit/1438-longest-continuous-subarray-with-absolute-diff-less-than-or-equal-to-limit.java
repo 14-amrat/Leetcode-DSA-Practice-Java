@@ -1,20 +1,48 @@
+import java.util.*;
+
 class Solution {
     public int longestSubarray(int[] nums, int limit) {
-        TreeMap<Integer, Integer> map = new TreeMap<>();
-        int left = 0, maxLen = 0;
         
+        Deque<Integer> maxDeque = new ArrayDeque<>();
+        Deque<Integer> minDeque = new ArrayDeque<>();
+
+        int left = 0;
+        int maxLength = 0;
+
         for (int right = 0; right < nums.length; right++) {
-            map.put(nums[right], map.getOrDefault(nums[right], 0) + 1);
-            
-            while (map.lastKey() - map.firstKey() > limit) {
-                map.put(nums[left], map.get(nums[left]) - 1);
-                if (map.get(nums[left]) == 0) map.remove(nums[left]);
+
+            // Maintain decreasing deque for maximum
+            while (!maxDeque.isEmpty() &&
+                   nums[maxDeque.peekLast()] < nums[right]) {
+                maxDeque.pollLast();
+            }
+            maxDeque.offerLast(right);
+
+            // Maintain increasing deque for minimum
+            while (!minDeque.isEmpty() &&
+                   nums[minDeque.peekLast()] > nums[right]) {
+                minDeque.pollLast();
+            }
+            minDeque.offerLast(right);
+
+            // Shrink window if invalid
+            while (nums[maxDeque.peekFirst()] - nums[minDeque.peekFirst()] > limit) {
+
+                // Remove elements that are leaving the window
+                if (maxDeque.peekFirst() == left) {
+                    maxDeque.pollFirst();
+                }
+
+                if (minDeque.peekFirst() == left) {
+                    minDeque.pollFirst();
+                }
+
                 left++;
             }
-            
-            maxLen = Math.max(maxLen, right - left + 1);
+
+            maxLength = Math.max(maxLength, right - left + 1);
         }
-        
-        return maxLen;
+
+        return maxLength;
     }
 }
