@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [0041-first-missing-positive](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [0041-first-missing-positive](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0041-first-missing-positive) |
 ## Matrix
 |  |
 | ------- |
