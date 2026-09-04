@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [0041-first-missing-positive](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0041-first-missing-positive) |
+| [0016-3sum-closest](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0016-3sum-closest](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0016-3sum-closest) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0011-container-with-most-water](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0016-3sum-closest](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
