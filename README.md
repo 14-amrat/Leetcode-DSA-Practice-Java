@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0041-first-missing-positive) |
 | [0016-3sum-closest](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [0041-first-missing-positive](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0973-k-closest-points-to-origin) |
 | [0004-median-of-two-sorted-arrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
+| [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
 ## Geometry
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0016-3sum-closest](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -361,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
