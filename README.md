@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0085-maximal-rectangle) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [0053-maximum-subarray](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0347-top-k-frequent-elements) |
 | [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
+| [0053-maximum-subarray](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0053-maximum-subarray) |
 ## Geometry
 |  |
 | ------- |
