@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
 | [0053-maximum-subarray](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0053-maximum-subarray) |
+| [0051-n-queens](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0090-subsets-ii) |
 | [0078-subsets](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0078-subsets) |
 | [0046-permutations](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0051-n-queens) |
 ## Math
 |  |
 | ------- |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0169-majority-element) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
