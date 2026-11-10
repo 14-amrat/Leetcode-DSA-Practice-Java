@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [0053-maximum-subarray](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0078-subsets) |
 | [0046-permutations](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/1002-find-common-characters) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0131-palindrome-partitioning](https://github.com/14-amrat/Leetcode-DSA-Practice-Java/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
